@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DigitalShield</string>
+    <string name="accessibility_service_description">DigitalShield monitors app transitions during active calls to protect you from digital arrest scams and block UPI apps when a high-risk call is detected.</string>
+</resources>
