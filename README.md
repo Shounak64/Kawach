@@ -1,4 +1,4 @@
-# DigitalShield - Anti-Scam Protection
+# Kawach - Anti-Scam Protection
 
 DigitalShield is a production-ready Flutter app designed to protect users from "Digital Arrest" scams in India using real-time call monitoring, on-device speech-to-text, AI-powered pattern matching, and Accessibility-based UPI protection.
 
@@ -48,3 +48,4 @@ samples, guidance on mobile development, and a full API reference.
 <img width="714" height="1599" alt="image_2026-02-28_022710786" src="https://github.com/user-attachments/assets/55bf814a-414e-45a0-a97c-434d1c6373c6" />
 <img width="714" height="1599" alt="image_2026-02-28_022655678" src="https://github.com/user-attachments/assets/62e33bb5-ca62-4ddc-b2aa-9383ed8e4e3e" />
 <img width="714" height="1599" alt="image_2026-02-28_022641782" src="https://github.com/user-attachments/assets/ef89cb10-ceec-4498-88bc-499e7af9875b" />
+
